@@ -11,3 +11,20 @@
  //  Comments page
 
  ![Screenshot 2025-01-15 220428](https://github.com/user-attachments/assets/99987fb3-9aa4-473b-ab19-cf9c7146ea6f)
+
+instructions How to run app locally
+
+-> open git terminal
+-> run command git clone https://github.com/RS-233/assignment.git
+-> assignment
+
+# Install Dependencies
+# server
+-> cd server
+-> npm install
+-> npm run dev // for frontend execution
+
+# client
+-> cd client
+->npm install
+-> -> npm run server // for backend execution
